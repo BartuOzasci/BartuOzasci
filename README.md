@@ -48,7 +48,7 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 <p align="left">
   <a href="mailto:bartuozasci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bartuozasci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://bartuozasci.github.io/](https://bartuozasciwebsite.netlify.app)"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+  <a href="https://bartuozasciwebsite.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
 
 ---
