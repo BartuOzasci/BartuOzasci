@@ -50,6 +50,18 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 
 ---
+
+### 📂 Repolarım
+
+<!-- Sabit öne çıkan projelerini el ile listeleyebilirsin -->
+#### 🌟 Öne Çıkan Projeler
+- 🧩 [**AI-Forecasting-Models**](https://github.com/bartuozasci/AI-Forecasting-Models) – Chronos, IBM Granite ve XGBoost ile zaman serisi tahmin projeleri  
+- 🏗️ [**Plastro-FreeCAD-Module**](https://github.com/bartuozasci/Plastro-FreeCAD-Module) – FreeCAD tabanlı yapı topolojisi tasarım aracı  
+- 📊 [**Walmart-Sales-Predictor**](https://github.com/bartuozasci/Walmart-Sales-Predictor) – XGBoost ve optimizasyon algoritmalarıyla satış tahmini modeli  
+- 🌍 [**Portfolio-Website**](https://github.com/bartuozasci/Portfolio-Website) – Kişisel web sitesi (React + Bootstrap)
+
+---
+
 <!-- Otomatik olarak en popüler repolarını gösteren GitHub widget -->
 <p align="center">
   <a href="https://github.com/bartuozasci?tab=repositories">
@@ -57,6 +69,8 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartuozasci&repo=Walmart-Sales-Predictor&theme=tokyonight" />
   </a>
 </p>
+
+---
 
 
 ### 📊 GitHub İstatistiklerim
