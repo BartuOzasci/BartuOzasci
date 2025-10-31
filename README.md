@@ -37,6 +37,7 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -52,7 +53,7 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 ### 🌐 Benimle İletişime Geç
 <p align="left">
   <a href="mailto:bartuozasci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bartuozasci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bartu-%C3%B6za%C5%9F%C3%A7%C4%B1-522679271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://bartuozasciwebsite.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
 
