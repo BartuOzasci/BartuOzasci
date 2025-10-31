@@ -20,16 +20,21 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### 🤖 Yapay Zeka ve Veri Bilimi
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP%20(Natural%20Language%20Processing)-4B8BBE?style=for-the-badge&logo=semanticweb&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20(Large%20Language%20Models)-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![TSA](https://img.shields.io/badge/TSA%20(Time%20Series%20Analysis)-00897B?style=for-the-badge&logo=clockify&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge&logo=python&logoColor=white)
+![Deep%20Learning](https://img.shields.io/badge/Deep%20Learning-1976D2?style=for-the-badge&logo=neural-network&logoColor=white)
+![Data%20Science](https://img.shields.io/badge/Data%20Science-2E7D32?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 #### ⚙️ Backend & Diğer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
