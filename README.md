@@ -62,16 +62,6 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 ---
 
-<!-- Otomatik olarak en popüler repolarını gösteren GitHub widget -->
-<p align="center">
-  <a href="https://github.com/bartuozasci?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartuozasci&repo=AI-Forecasting-Models&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartuozasci&repo=Walmart-Sales-Predictor&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 
 ### 📊 GitHub İstatistiklerim
 
