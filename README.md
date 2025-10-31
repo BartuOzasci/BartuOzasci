@@ -72,6 +72,18 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 ---
 
+
+### 🧩 LeetCode İstatistiklerim
+
+<p align="center">
+  <a href="https://leetcode.com/u/bartuozasci">
+    <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=tokyonight&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+
 ### 🌐 Benimle İletişime Geç
 <p align="left">
   <a href="mailto:bartuozasci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
