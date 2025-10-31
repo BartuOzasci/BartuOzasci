@@ -77,7 +77,7 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 <p align="center">
   <a href="https://leetcode.com/u/bartuozasci">
-    <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=tokyonight&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/bartuozasci?theme=tokyonight&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
