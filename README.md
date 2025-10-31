@@ -41,6 +41,17 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 ---
 
+
+### 📜 Sertifikalar ve Programlar
+
+<!-- Buraya sertifikalarını, eğitim programlarını veya kurslarını yazabilirsin -->
+- 📘 İzmir Bornova Belediyesi HACKATHON'25 - 2025
+- 🤖 Veri Etiketleme Çalıştay 1.'si Ekinoksoft - 2024
+
+
+---
+
+
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
