@@ -55,7 +55,7 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 <!-- Sabit öne çıkan projelerini el ile listeleyebilirsin -->
 #### 🌟 Öne Çıkan Projeler
-- 🧩 [*Infinity Gym Website**](https://github.com/BartuOzasci/infinity_gym_website) – Eskişehir'de 3 şubesi olan bir spor salonunun website tasarımı
+- 🧩 [**Infinity Gym Website**](https://github.com/BartuOzasci/infinity_gym_website) – Eskişehir'de 3 şubesi olan bir spor salonunun website tasarımı
 - 🏗️ [**Chatbot Asistan**](https://github.com/BartuOzasci/AI_Assistant_with_RAG) – Google AI modeli ile pdf analiz chatbot modeli
 
 
