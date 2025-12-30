@@ -62,12 +62,6 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 ---
 
 
-### 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartuOzasci&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartuOzasci&layout=compact&theme=tokyonight)
-
----
 
 
 ### 🧩 LeetCode İstatistiklerim
