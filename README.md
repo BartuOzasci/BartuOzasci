@@ -64,10 +64,8 @@ Projelere hızlı adapte olma yeteneğim ve sürekli öğrenme isteğimle teknol
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BartuOzasci&show_icons=true&theme=tokyonight" alt="Bartu GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuOzasci&layout=compact&theme=tokyonight" alt="Bartu Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartuOzasci&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartuOzasci&layout=compact&theme=tokyonight)
 
 ---
 
